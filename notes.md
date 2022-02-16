@@ -35,3 +35,10 @@ https://docs.rs/mysql/latest/mysql/
 ```shell
 cargo new --lib rust-redis
 ```
+
+
+### Rust kafka
+
+```shell
+cargo new --lib rust-kafka
+```
