@@ -1,0 +1,7 @@
+CREATE TABLE posts (
+  id integer NOT NULL AUTO_INCREMENT,
+  title VARCHAR(100) NOT NULL,
+  body TEXT NOT NULL,
+  published BOOLEAN NOT NULL DEFAULT false,
+  PRIMARY KEY(id)
+)
