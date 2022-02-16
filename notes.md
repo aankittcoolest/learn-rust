@@ -28,3 +28,10 @@ rustup default stable
 
 - Mysql Rust
 https://docs.rs/mysql/latest/mysql/
+
+
+### Rust redis
+
+```shell
+cargo new --lib rust-redis
+```
